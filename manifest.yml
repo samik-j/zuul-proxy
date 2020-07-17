@@ -1,0 +1,6 @@
+---
+applications:
+  - name: zuul-proxy-joanna
+    path: target\zuul-proxy-0.0.1-SNAPSHOT.jar
+    services:
+      - eureka
